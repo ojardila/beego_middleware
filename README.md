@@ -1,7 +1,7 @@
-## Middlewares in Beego
+## Middleware in Beego
 
 
-Basic example middleware for Beego framework.
+Basic example for creating middlewares in Beego framework.
 
 ### Installation
 
